@@ -1,0 +1,95 @@
+/*banner content*/
+
+.banner-container{
+  max-width: 1360px;
+  max-height: 500px;
+  margin-top: 50px;
+  margin-right: 140px;
+  margin-left: 140px;
+  flex-shrink: 0;
+  position: relative;
+  background-image: url(Banner\ Image.png);
+}
+.banner-container img{
+  max-width: 1360px;
+  max-height: 500px;
+}
+.banner-text h3{
+text-align: center;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+position: absolute;
+top: 20%;
+left: 35%;
+color: #FFF;
+max-width: 240px;
+max-height: 40px;
+}
+.banner-text h1{
+  text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+max-width: 632px;
+max-height: 190px;
+position: absolute;
+top: 30%;
+left: 18%;
+color: #FFF;
+}
+
+/*sale*/
+div.sale{
+  width: 1320px;
+height: 600px;
+}
+h1.off{
+  color:#F00;
+  text-align: center;
+  font-family: inter;
+  font-size: 88px;
+  font-weight: 700;
+}
+p.our{
+  color: #F00;
+  text-align: center;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+h3.all{
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+}
+.new-year img{
+width: 600px;
+height: 500px;
+flex-shrink: 0;
+margin-left: 399px;
+}
+div.mid-party{
+  max-width: 1320px;
+  max-height: 600px;
+  margin-left: 140px;
+  margin-right: 140px;
+  background-image: url(Vectorrr.png);
+  background-position:100%;
+  background-size:100%;
+  background-repeat: no-repeat;
+
+}
+
+h1.wmp{
+font-family: Merriweather;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px; /* 137.5% */
+letter-spacing: 5.04px;
+margin-top: 300px;
+margin-left: 126px;
+}
